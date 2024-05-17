@@ -1,4 +1,6 @@
 # Knative Eventing Apache CouchDB Source
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-couchdb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-couchdb?ref=badge_shield)
+
 
 |               |                                                                                                                    |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -14,3 +16,7 @@ To learn more about Knative, please visit our
 
 If you are interested in contributing, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 and [DEVELOPMENT.md](./DEVELOPMENT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-couchdb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-couchdb?ref=badge_large)
